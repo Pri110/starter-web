@@ -13,4 +13,7 @@ contributing
 
 
 ## adding new change to diff
-hello
+hello 
+
+## Copyright
+adding copyright comments
