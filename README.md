@@ -10,7 +10,7 @@ conflict change in master 1
 
 ## How to contribute
 contributing 
-just checking
+just checking...
 
 ## new change
 
