@@ -9,7 +9,8 @@ change made in master for rebase
 conflict change in master 1
 
 ## How to contribute
-contributing
+contributing 
+just checking
 
 ## new change
 
