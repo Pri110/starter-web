@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 change made in master for rebase
 conflict change in master 1
+lets see if it reflects
 
 ## How to contribute
 contributing 
